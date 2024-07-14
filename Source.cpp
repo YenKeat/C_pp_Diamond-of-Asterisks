@@ -11,7 +11,7 @@ int main()
 
 	for (int j = 0; j < 9; j++)
 	{
-		for (int i = 0; i < 5-count; i++)    // print space
+		for (int i = 0; i < 5-count; i++)    // print Space
 		{
 			cout << " ";
 		}
@@ -21,7 +21,7 @@ int main()
 			cout << "*";
 		}
 
-		if (j < 4)
+		if (j < 4)                
 		{
 			count += 1;
 		}
