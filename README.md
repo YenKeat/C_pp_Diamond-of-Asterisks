@@ -1,1 +1,1 @@
-# C_pp_Diamond-of-Asteriskss
+# C_pp_Diamond-of-Asterisks
